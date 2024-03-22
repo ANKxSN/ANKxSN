@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ANKxSN
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning in class 11th
+- 🌱 I’m currently learning python
 - 💞️ and I love you ANKITA
   
